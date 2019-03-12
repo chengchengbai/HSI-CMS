@@ -1,6 +1,5 @@
-Codes for paper 'Preserving Clustering Manifold Structure for Hyperspectral Imagery Super-Resolution'
-
-The paper is now under review, we will release complete codes after be accepted.
+cite our paper
+Exploiting Clustering Manifold Structure for Hyperspectral Imagery Super-Resolution[J]. IEEE Transactions on Image Processing, 2018:1-1.
 
 Author: Bai Cheng, Zhang Lei
 
