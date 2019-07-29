@@ -1,3 +1,6 @@
+cite our paper if you use these code.
+contact baichengch@foxmail.com for any questions.
+
 @article{
 
     Zhang2018Exploiting,
@@ -17,4 +20,5 @@
     year={2018},
 }
 
-baichengch@foxmail.com
+
+
