@@ -1,5 +1,6 @@
-cite our paper if you use these code.
-contact baichengch@foxmail.com for any questions.
+Cite our paper if you use these code.
+
+Contact baichengch@foxmail.com for any questions.
 
 @article{
 
