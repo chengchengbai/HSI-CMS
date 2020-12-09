@@ -1,7 +1,5 @@
 Cite our paper if you use these code.
 
-Contact baichengch@foxmail.com for any questions.
-
 @article{
 
     Zhang2018Exploiting,
